@@ -632,7 +632,7 @@ hr {
   opacity: 0.85;
 }
 .logo a:hover .cover {
-  top: -100%;
+  top: 0%;
 }
 .header .menu {
   margin: 0;
